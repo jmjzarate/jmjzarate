@@ -1,6 +1,4 @@
-## hi! i'm julia :)
-
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmjzarate&show_icons=true&theme=transparent)
+![Julia's GitHub stats](https://github-readme-stats-bn3s-git-master-julia-zarates-projects.vercel.app/api?username=jmjzarate&show_icons=true&theme=darcula&rank_icon=github&custom_title=my%20stats!%20:3&card_width=400)
 
 <!--
 **jmjzarate/jmjzarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
